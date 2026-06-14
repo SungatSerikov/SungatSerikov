@@ -53,15 +53,15 @@
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
   </a>
 
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+  <a href="https://t.me/sungatSS" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30" />
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/sungat-serikov" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
 
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <a href="https://instagram.com/_sungat.s" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" />
   </a>
 </p>
