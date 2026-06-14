@@ -49,7 +49,7 @@
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Connect with me </h1>
 <p align="center">
-  <a href="mailto:ВАШ_EMAIL@example.com" target="_blank">
+  <a href="mailto:serikovsungat7896@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
   </a>
 
