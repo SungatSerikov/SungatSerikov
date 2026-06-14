@@ -13,12 +13,6 @@
 ---
 
 ### 👨‍💻 About Me
-I am a passionate **Software Engineer** focused on building robust, scalable, and efficient software systems. I enjoy solving complex algorithmic problems, designing database schemas, and working with modern backend frameworks.
-
-- 🚀 Currently working on: **Improving system architectures and backend services**
-- 🌱 Learning & exploring: **Advanced system design, microservices, and performance optimization**
-- 💬 Ask me about: **Python, C# (.NET), Java, and Database Design**
-- ⚡ Fun fact: **I believe clean code is a form of art**
 
 ---
 
