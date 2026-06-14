@@ -19,7 +19,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=SungatSerikov&theme=onedark&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/SungatSerikov"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="SungatSerikov" /></a>
+ 
 </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
