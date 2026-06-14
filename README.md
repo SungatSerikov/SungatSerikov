@@ -4,9 +4,9 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  A little about me... </h1>
 <p align="center">
   <samp>
-    A passionate Software Engineer focused on building robust, scalable, and efficient software systems. With hands-on experience in backend development, I enjoy solving complex algorithmic problems, designing database schemas, and working with modern frameworks.<br><br>
-    I’m constantly exploring new technologies, collaborating with teams, and contributing to projects that drive meaningful change and inspire innovation.
-  </samp>
+  Hi! I'm Serikov Sunggat, a Software Engineering student at Astana IT University.<br><br>
+  I am constantly developing my programming skills and am always open to new and exciting projects.
+</samp>
   <br> <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SungatSerikov.visitor-badge" />
 </p>
